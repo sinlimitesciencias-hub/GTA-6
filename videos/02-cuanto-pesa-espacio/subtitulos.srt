@@ -1,0 +1,225 @@
+1
+00:00:00,450 --> 00:00:04,878
+Doscientos doce gigas. Eso es lo que
+Rockstar dice que necesitas libres para
+
+2
+00:00:04,878 --> 00:00:08,549
+instalar GTA 6. Y si tu consola
+está llena, tienes un problema.
+
+3
+00:00:08,829 --> 00:00:13,227
+En este video te digo cuánto espacio
+tiene de verdad tu consola, cómo liberar
+
+4
+00:00:13,227 --> 00:00:15,968
+espacio rápido y qué
+comprar si te quedas corto.
+
+5
+00:00:16,848 --> 00:00:18,841
+Primero, pon esa cifra en contexto.
+
+6
+00:00:18,841 --> 00:00:23,396
+Tu consola nunca tiene libre todo el
+espacio que dice la caja, porque el sistema
+
+7
+00:00:23,396 --> 00:00:24,307
+ocupa una parte.
+
+8
+00:00:24,587 --> 00:00:29,907
+Una PS5 original de 825
+gigas deja libres unos 667.
+
+9
+00:00:29,907 --> 00:00:37,209
+La PS5 Slim, unos 848. Y la PS5 Pro,
+con dos teras, deja bastante más.
+
+10
+00:00:37,489 --> 00:00:41,207
+En Xbox, la Series X deja
+unos 802 gigas libres.
+
+11
+00:00:41,207 --> 00:00:44,693
+Pero la Series S de 512
+se queda en unos 364.
+
+12
+00:00:44,693 --> 00:00:50,580
+O sea: en una Series S, GTA 6 por sí
+solo se come más de la mitad del disco.
+
+13
+00:00:51,460 --> 00:00:54,247
+Paso uno: averigua qué
+se está comiendo tu disco.
+
+14
+00:00:54,527 --> 00:00:59,234
+En PS5 entra a Ajustes, Almacenamiento,
+y luego a Juegos y aplicaciones.
+
+15
+00:00:59,514 --> 00:01:03,972
+En Xbox ve a Mis juegos y aplicaciones,
+y entra a la opción de administrar el
+
+16
+00:01:03,972 --> 00:01:04,840
+almacenamiento.
+
+17
+00:01:05,120 --> 00:01:09,803
+Ordena por tamaño. Casi siempre hay dos
+o tres juegos enormes que no tocas hace
+
+18
+00:01:09,803 --> 00:01:11,641
+meses: esos son tus candidatos.
+
+19
+00:01:12,521 --> 00:01:15,923
+Paso dos: tranquilo, borrar
+un juego no borra tu progreso.
+
+20
+00:01:15,923 --> 00:01:20,791
+Las partidas guardadas se quedan en la
+consola, y en Xbox, o en PS5 con PlayStation
+
+21
+00:01:20,791 --> 00:01:23,020
+Plus, también se respaldan en la nube.
+
+22
+00:01:23,020 --> 00:01:26,188
+Igual, revisa que estén
+sincronizadas antes de borrar.
+
+23
+00:01:26,468 --> 00:01:29,036
+Elimina capturas y clips de video viejos.
+
+24
+00:01:29,036 --> 00:01:31,730
+Los videos en alta
+calidad pesan muchísimo.
+
+25
+00:01:32,010 --> 00:01:34,539
+Y desinstala los juegos
+que tienes en digital:
+
+26
+00:01:34,539 --> 00:01:37,783
+los vuelves a descargar cuando
+quieras, sin pagar de nuevo.
+
+27
+00:01:38,663 --> 00:01:40,963
+Y si de plano no te alcanza, toca ampliar.
+
+28
+00:01:41,243 --> 00:01:46,651
+En PS5 puedes instalar un SSD M punto
+dos de tipo NVMe, PCI Express 4.0, con
+
+29
+00:01:46,651 --> 00:01:52,556
+disipador. Se pone dentro de la consola
+en unos minutos y ahí sí puedes jugar GTA 6
+
+30
+00:01:52,556 --> 00:01:53,481
+directamente.
+
+31
+00:01:53,761 --> 00:01:58,538
+En Xbox Series necesitas una tarjeta de
+expansión compatible, que se conecta por
+
+32
+00:01:58,538 --> 00:02:01,284
+detrás. Es más cara,
+pero es enchufar y listo.
+
+33
+00:02:02,164 --> 00:02:04,589
+Ojo con esto, que mucha gente se equivoca.
+
+34
+00:02:04,869 --> 00:02:07,682
+Un disco duro externo
+por USB sirve como bodega:
+
+35
+00:02:07,682 --> 00:02:10,963
+puedes guardar ahí juegos
+para no volver a descargarlos.
+
+36
+00:02:11,243 --> 00:02:15,757
+Pero los juegos de nueva generación,
+como GTA 6, se tienen que jugar desde el
+
+37
+00:02:15,757 --> 00:02:18,395
+almacenamiento interno
+o la expansión rápida.
+
+38
+00:02:18,395 --> 00:02:20,857
+El USB te ayuda a mover cosas, no a jugar.
+
+39
+00:02:21,737 --> 00:02:26,203
+Mi recomendación: si vas a comprar
+almacenamiento, ve por lo menos por un tera.
+
+40
+00:02:26,203 --> 00:02:30,896
+Entre GTA 6, su parche del primer día y
+las actualizaciones que vendrán, el espacio
+
+41
+00:02:30,896 --> 00:02:33,271
+se va a acabar más rápido de lo que crees.
+
+42
+00:02:34,151 --> 00:02:36,490
+Resumen rápido antes de la medianoche:
+
+43
+00:02:36,770 --> 00:02:39,984
+doscientos doce gigas libres,
+y algo extra para el parche;
+
+44
+00:02:40,264 --> 00:02:42,178
+la precarga al cien por ciento;
+
+45
+00:02:42,458 --> 00:02:45,245
+y las actualizaciones
+automáticas activadas.
+
+46
+00:02:46,125 --> 00:02:50,889
+Si este video te ahorró un dolor de cabeza,
+suscríbete, que estoy subiendo todas las
+
+47
+00:02:50,889 --> 00:02:55,484
+guías de GTA 6 esta semana. Y cuéntame
+en los comentarios cuánto espacio libre te
+
+48
+00:02:55,484 --> 00:02:55,824
+quedó.
